@@ -1,0 +1,77 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-arrow-down-white {
+    width: 18px;
+    height: 29px;
+    background-position: -5px -5px;
+}
+
+.sprite-ballon {
+    width: 44px;
+    height: 65px;
+    background-position: -33px -5px;
+}
+
+.sprite-faq {
+    width: 40px;
+    height: 34px;
+    background-position: -87px -5px;
+}
+
+.sprite-fb {
+    width: 22px;
+    height: 23px;
+    background-position: -137px -5px;
+}
+
+.sprite-glasses-red {
+    width: 75px;
+    height: 28px;
+    background-position: -87px -49px;
+}
+
+.sprite-instagr {
+    width: 22px;
+    height: 23px;
+    background-position: -5px -87px;
+}
+
+.sprite-like-red {
+    width: 56px;
+    height: 58px;
+    background-position: -37px -87px;
+}
+
+.sprite-message {
+    width: 23px;
+    height: 17px;
+    background-position: -103px -87px;
+}
+
+.sprite-photo-red {
+    width: 65px;
+    height: 50px;
+    background-position: -103px -114px;
+}
+
+.sprite-target-marker {
+    width: 35px;
+    height: 50px;
+    background-position: -172px -5px;
+}
+
+.sprite-vk {
+    width: 22px;
+    height: 23px;
+    background-position: -172px -65px;
+}
+
+.sprite-zoom-red {
+    width: 72px;
+    height: 34px;
+    background-position: -5px -174px;
+}
